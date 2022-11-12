@@ -8,3 +8,4 @@ Repositorio para entregas y avances del proyecto para el curso Introducción a l
 
 Video 1
 https://youtu.be/D3plVEyYZ7w
+Video 2
