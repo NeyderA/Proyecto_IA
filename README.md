@@ -1,7 +1,7 @@
 # Proyecto_IA
 Repositorio para entregas y avances del proyecto para el curso Introducción a la Inteligencia Artificial.
 # Miembros del grupo 
-NEyder Stiven Arroyave Monsalve
+Neyder Stiven Arroyave Monsalve
 
 
 
